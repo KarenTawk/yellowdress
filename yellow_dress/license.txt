@@ -1,0 +1,11 @@
+Model Information:
+* title:	Yellow dress
+* source:	https://sketchfab.com/3d-models/yellow-dress-6963e411cdd84e198ec0aef28389dc2e
+* author:	Androkumura (https://sketchfab.com/Androkumura)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Yellow dress" (https://sketchfab.com/3d-models/yellow-dress-6963e411cdd84e198ec0aef28389dc2e) by Androkumura (https://sketchfab.com/Androkumura) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
